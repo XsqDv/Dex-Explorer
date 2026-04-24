@@ -1,5 +1,4 @@
 --[[
-       REMAKE BY MASTERGAMERS
 	Dex
 	Agent Edtion
 	Developed by Moon, for the Agents.
