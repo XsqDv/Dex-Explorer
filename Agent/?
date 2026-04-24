@@ -1,1 +1,9 @@
-
+local Agent = Instance.new("RemoteEvent")
+RemoteEvent.Name = Agent
+local FD = Instance.new("Part")
+Part.Touched:Connect(function(hit)
+    local player = game.Players:GetPlayerFromCharacter(hit.Parent)
+    if player then
+   -- touch part and fire remote
+    end
+end)
